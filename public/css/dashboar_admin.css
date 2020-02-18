@@ -1,0 +1,23 @@
+.interfaces {
+	font-size: 20px;
+}
+
+i.fa-edit {
+	color: green;
+}
+
+.img-logo {
+	height: 50px;
+}
+
+.alert {
+	margin-bottom: 0;
+}
+
+.container-fluid {
+	margin-top: 15px;
+}
+
+.modal-footer button a {
+    text-decoration: none;
+}
