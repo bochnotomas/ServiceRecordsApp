@@ -1,3 +1,8 @@
+# Service Records Web Application
+A web application that runs on local server in industry.
+It serves as checklists for masters, who can see the work acomplished by their workers/subordinates/employees.
+Application is mainly build in PHP, more particularly in Laravel.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
